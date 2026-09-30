@@ -15,7 +15,6 @@
 * [yt.chocolatemoo53.com](https://yt.chocolatemoo53.com) 🇺🇸 - Source code/changes: https://git.nadeko.net/Fijxu/invidious 
 * [invidious.tiekoetter.com](https://invidious.tiekoetter.com) 🇩🇪 - Source code/changes: https://github.com/tiekoetter/invidious
 * [invidious.f5.si](https://invidious.f5.si) 🇯🇵
-* [inv.miningtcup.me](https://inv.miningtcup.me) 🇺🇸 - Source code/changes: https://git.miningtcup.me/MiningTcup/invidious
 
 ### Tor Onion Services:
 
